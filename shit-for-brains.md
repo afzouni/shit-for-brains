@@ -1,3 +1,5 @@
+## Total Accounts: 50,550 (2022-09-24)
+
 ## Block List
 List of Accouns is [Here](https://github.com/afzouni/shit-for-brains) contains JSON, CSV and Raw Text.
 
